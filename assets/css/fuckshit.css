@@ -1,0 +1,62 @@
+.swal2-popup {
+   
+}
+
+.swal2-icon.swal2-success .swal2-success-ring {
+   
+}
+
+.swal2-icon.swal2-success [class^=swal2-success-line] {
+  
+}
+
+
+.swal2-popup .swal2-styled.swal2-confirm {
+   
+}
+
+        body {
+            font-family: 'Kanit', sans-serif !important;
+        }
+
+        .candyf {
+            font-family: 'Kanit', sans-serif !important;
+            
+        }
+
+        .candyr {
+            border-radius: 40px 40px;
+        }
+
+        .nav-link,.nav-brand {
+            color:#ff6600;
+            font-family: 'Kanit', sans-serif !important;
+            font-size:14px !important;
+        }
+
+        a:hover {
+            
+            font-family: 'Kanit', sans-serif !important;
+        }
+
+        h1,h2,h3,h4,h5,p {
+            font-family: 'Kanit', sans-serif !important;
+        }
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #ff6600; 
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ff6600; 
+}
